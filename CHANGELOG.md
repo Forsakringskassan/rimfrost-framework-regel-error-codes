@@ -2,7 +2,13 @@
 
 Changelog of rimfrost-framework-regel-error-codes.
 
-## 0.0.3 (2026-05-21)
+## 1.1.1 (2026-06-10)
+
+### Bug Fixes
+
+-  Add error codes for process topic info ([90385](https://github.com/Forsakringskassan/rimfrost-framework-regel-error-codes/commit/90385f89e3c3729) Lars Persson)  
+
+## rimfrost-1.1 (2026-05-21)
 
 ### Bug Fixes
 
