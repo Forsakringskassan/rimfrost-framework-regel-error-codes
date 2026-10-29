@@ -2,6 +2,14 @@
 
 Changelog of rimfrost-framework-regel-error-codes.
 
+## 1.1.2 (2026-10-29)
+
+### Bug Fixes
+
+-  Replace github workflows ([f9095](https://github.com/Forsakringskassan/rimfrost-framework-regel-error-codes/commit/f9095eab5408a10) Lars Persson)  
+
+## rimfrost-1_2 (2026-06-10)
+
 ## 1.1.1 (2026-06-10)
 
 ### Bug Fixes
