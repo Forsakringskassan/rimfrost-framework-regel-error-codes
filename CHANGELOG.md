@@ -2,6 +2,12 @@
 
 Changelog of rimfrost-framework-regel-error-codes.
 
+## 1.1.3 (2026-10-29)
+
+### Bug Fixes
+
+-  Bump release version ([b9950](https://github.com/Forsakringskassan/rimfrost-framework-regel-error-codes/commit/b9950b2c160b757) Lars Persson)  
+
 ## 1.1.2 (2026-10-29)
 
 ### Bug Fixes
